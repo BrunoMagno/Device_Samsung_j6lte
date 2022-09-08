@@ -1,0 +1,1 @@
+# Device_Samsung_j6lte
