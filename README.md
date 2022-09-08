@@ -20,4 +20,4 @@ It was announced and released in May 2018.
 
 ## Device picture
 
-![Samsung J6 2018](https://t2.tudocdn.net/336553?w=143&h=304)
+![Samsung J6 2018](https://s2.glbimg.com/-PuX_eoYr3SRybFvLpidvx5MrdI=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2018/C/q/a6FeMhS2OAVTaosCjfqQ/galaxy-j6.jpg)
